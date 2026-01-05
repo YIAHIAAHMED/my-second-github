@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+    color: red;
+}
+form .Basic-info label {
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
