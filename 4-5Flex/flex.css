@@ -1,0 +1,19 @@
+.container div {
+    border: 1px solid tomato;
+    height: 50px;
+    font-size: 3em;
+}
+.container {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
+.box{
+    font-size: 4em;
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+}
+.box-container {
+    display: flex;
+}
