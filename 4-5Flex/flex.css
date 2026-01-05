@@ -17,3 +17,22 @@
 .box-container {
     display: flex;
 }
+.user-container {
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+    justify-content: left;
+}
+.user {
+    font-size: 2em;
+    border: 2px solid green;
+    height: 80px;
+    width: 80px;
+}
+.card-container {
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+    justify-content: left;
+    flex-wrap: wrap;
+}
